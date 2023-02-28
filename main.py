@@ -92,7 +92,8 @@ parser.add_argument('--pretrained', '-pt', type=bool, default=False, help='wheth
  
 parser.add_argument('--slope','-s', type=float,  default=5, help='the first param of loupe')
 parser.add_argument('--sample_slope','-ss', type=float,  default=200, help='the second param of loupe')
- 
+
+#printdlgijdlsgj
 
 
 # bili_0=0.0#为了记录每训练一个轮次 得到的mask数值
